@@ -1,9 +1,3 @@
-# piton
-
-
-
-
-
 # html
 
 # button - ღილაკი
